@@ -23,6 +23,8 @@
    <a href="https://www.linkedin.com/in/andre-vitor-f-adams-3697391a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       <a href="https://www.linkedin.com/in/andre-vitor-f-adams-3697391a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         <a href="https://www.youtube.com/channel/UCtZrvBHbztMwvz3uE2T5HPA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-        <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andre-vitor-f-adams-3697391a4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/andre-vitor-f-adams-3697391a4?trk=profile-badge">Andre Vitor F. Adams</a></div>
+        <div>
+          <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andre-vitor-f-adams-3697391a4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/andre-vitor-f-adams-3697391a4?trk=profile-badge">Andre Vitor F. Adams</a></div>
+        </div>
               
 </div>
