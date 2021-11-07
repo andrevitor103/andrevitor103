@@ -1,4 +1,4 @@
-
+<div>
 - 👾 Óla mundo...
 - 📘 Atualmente sigo focado em JS, Node JS, React Native e React JS...
 - 📕 Mas como sempre fui focado em PHP, sempre tô de 👀
@@ -23,4 +23,5 @@
         <a href="https://www.youtube.com/channel/UCtZrvBHbztMwvz3uE2T5HPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     
               
+</div>
 </div>
