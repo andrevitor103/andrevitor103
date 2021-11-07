@@ -1,9 +1,9 @@
-<div color="red">
-  <div>
+<div>
+  
 - 👾 Óla mundo...
 - 📘 Atualmente sigo focado em JS, Node JS, React Native e React JS...
 - 📕 Mas como sempre fui focado em PHP, sempre tô de 👀
-   </div>
+
   
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=andrevitor103&count_private=true&show_icons=true&theme=onedark" />
