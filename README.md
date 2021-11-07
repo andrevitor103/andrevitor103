@@ -1,8 +1,11 @@
 <div style="background-color: #121212">
+  <div>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/028/576/579/large/stephanie-lee-bg-5075-sml.jpg?1594859925" />
+  </div>
+  
 - 👾 Óla mundo...
 - 📘 Atualmente sigo focado em JS, Node JS, React Native e React JS...
 - 📕 Mas como sempre fui focado em PHP, sempre tô de 👀
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/576/579/large/stephanie-lee-bg-5075-sml.jpg?1594859925" />
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=andrevitor103&count_private=true&show_icons=true&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitor103&count_private=true&show_icons=true&theme=onedark" />
