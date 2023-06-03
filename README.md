@@ -1,10 +1,3 @@
-<div>
-  
-- 👾 Óla mundo... Muito prazer, sou André Vitor.
-- 📘 Estou sempre estudando sobre arquitetura e boas práticas, como por exemplo, DDD, Clean Architecture, Design Patterns. Buscando desenvolver aplicações com qualidade e estáveis...
-- PHP, Node JS + TS, React Native, MYSQL, Mongodb...
-  
-<div>
   <img src="https://github-readme-stats.vercel.app/api?username=andrevitor103&count_private=true&show_icons=true&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitor103&count_private=true&show_icons=true&theme=onedark" />
 </div>
