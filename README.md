@@ -1,4 +1,4 @@
-<div style="align-items: stretch;display: flex;align-content: space-around;flex-direction: row;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=andrevitor103&count_private=true&show_icons=true&theme=onelight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitor103&count_private=true&show_icons=true&theme=onelight" />
 </div>
